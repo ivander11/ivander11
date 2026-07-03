@@ -1,6 +1,6 @@
 ## Hi there 👋  My name is Ivander
 
-### I am an Electrical Engineering student passionate about **Hardware** and **Software**.
+### EE student
 <!--
 **ivander11/ivander11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
