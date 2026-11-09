@@ -1,17 +1,13 @@
-## Hi there 👋  My name is Ivander
+## Hey, I'm Ivander
 
-### EE student
-<!--
-**ivander11/ivander11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical Engineer
 
-Here are some ideas to get you started:
+Interested in robotics, AI, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on vision-based robotic manipulation and exploring robot learning.
+
+### Things I've worked on
+
+- **Robotic manipulation** — RT-DETR, MobileSAM, DDPG, Lite 6
+- **Wireless systems** — RF testing and Python automation
+- **Embedded hardware** — PCB design, microcontrollers, robotics
